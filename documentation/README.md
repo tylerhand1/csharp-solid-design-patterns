@@ -42,3 +42,9 @@ These design patterns can be grouped into three categories:
 8) Many are language-agnostic
 
 ## Object-Oriented Programming Principles
+1) [Encapsulation](/documentation/encapsulation.md)
+2) Abstraction
+3) Inheritance
+4) Polymorphism
+5) Coupling
+6) Composition
