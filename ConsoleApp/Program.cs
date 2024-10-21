@@ -1,12 +1,6 @@
-﻿// Encapsulation
+﻿// Abstraction
 
-using ConsoleApp.src.OopPrinciples.Encapsulation;
+using ConsoleApp.src.OopPrinciples.Abstraction;
 
-BankAccount bankAccount = new(100);
-Console.WriteLine(bankAccount.GetBalance());
-
-bankAccount.Deposit(50);
-Console.WriteLine(bankAccount.GetBalance());
-
-bankAccount.Withdraw(100);
-Console.WriteLine(bankAccount.GetBalance());
+EmailService emailService = new();
+emailService.SendEmail();
