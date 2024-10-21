@@ -1,0 +1,2 @@
+# Inheritance
+This involves creating new classes (subclasses/derived classes) based on existing classes (superclasses or base classes). Subclasses inherit properties and behaviors and can also add new features or override existing ones. Inheritance is an `is-a` relationship.

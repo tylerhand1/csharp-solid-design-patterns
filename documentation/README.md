@@ -44,7 +44,7 @@ These design patterns can be grouped into three categories:
 ## Object-Oriented Programming Principles
 1) [Encapsulation](/documentation/encapsulation.md)
 2) [Abstraction](/documentation/abstraction.md)
-3) Inheritance
+3) [Inheritance](/documentation/inheritance.md)
 4) Polymorphism
 5) Coupling
 6) Composition
