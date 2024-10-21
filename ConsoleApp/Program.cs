@@ -1,6 +1,14 @@
-﻿// Abstraction
+﻿// Inheritance
 
-using ConsoleApp.src.OopPrinciples.Abstraction;
+using ConsoleApp.src.OopPrinciples.Inheritance;
 
-EmailService emailService = new();
-emailService.SendEmail();
+var car = new Car();
+
+// Shared properties
+car.Brand = "Ford";
+car.Start();
+car.Stop();
+
+// Unique properties
+car.NumberOfDoors = 4;
+car.NumberOfWheels = 4;
