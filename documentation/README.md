@@ -45,6 +45,6 @@ These design patterns can be grouped into three categories:
 1) [Encapsulation](/documentation/encapsulation.md)
 2) [Abstraction](/documentation/abstraction.md)
 3) [Inheritance](/documentation/inheritance.md)
-4) [Polymorphism](/documentation/)
-5) Coupling
+4) [Polymorphism](/documentation/polymorphism.md)
+5) [Coupling](/documentation/coupling.md)
 6) Composition
