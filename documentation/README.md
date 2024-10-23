@@ -42,9 +42,9 @@ These design patterns can be grouped into three categories:
 8) Many are language-agnostic
 
 ## Object-Oriented Programming Principles
-1) [Encapsulation](/documentation/encapsulation.md)
-2) [Abstraction](/documentation/abstraction.md)
-3) [Inheritance](/documentation/inheritance.md)
-4) [Polymorphism](/documentation/polymorphism.md)
-5) [Coupling](/documentation/coupling.md)
-6) Composition
+1) [Encapsulation](/documentation/oop-principles/encapsulation.md)
+2) [Abstraction](/documentation/oop-principles/abstraction.md)
+3) [Inheritance](/documentation/oop-principles/inheritance.md)
+4) [Polymorphism](/documentation/oop-principles/polymorphism.md)
+5) [Coupling](/documentation/oop-principles/coupling.md)
+6) [Composition](/documentation/oop-principles/composition.md)
