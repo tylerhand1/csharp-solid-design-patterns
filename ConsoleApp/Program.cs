@@ -1,6 +1,6 @@
-﻿// Coupling
+﻿// Composition
 
-using ConsoleApp.src.OopPrinciples.Coupling;
+using ConsoleApp.src.OopPrinciples.Composition;
 
-var order = new Order(new SmsSender());
-order.PlaceOrder();
+Car car = new();
+car.StartCar();
