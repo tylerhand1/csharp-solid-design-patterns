@@ -18,4 +18,4 @@ This is a software design issue that arrises in OOP when changes to a base class
 1) Inheritance Coupling: Inheritance creates strong coupling between base and derived classes
 2) Limited Extensibility: The Fragile Base Class Problem limits the extensibility of software systems, as modifications to the base class can become increasingly risky and costly over time. Developers may avoid making necessary changes due to fear of breaking existing functionality.
 ### Mitigation Strategies
-To mitigate this problem, software developers can use design principles such as Open/Closed Principle (OCP) and Dependency Inversion Principle (DIP), as well as design patters like Composition over Inheritance. These approaches promote loose coupling, encapsulation and modular design; thus, reducing the impact of changes in base classes.
+To mitigate this problem, software developers can use design principles such as Open/Closed Principle (OCP) and Dependency Inversion Principle (DIP), as well as design patterns like Composition over Inheritance. These approaches promote loose coupling, encapsulation and modular design; thus, reducing the impact of changes in base classes.
