@@ -48,3 +48,10 @@ These design patterns can be grouped into three categories:
 4) [Polymorphism](/documentation/oop-principles/polymorphism.md)
 5) [Coupling](/documentation/oop-principles/coupling.md)
 6) [Composition](/documentation/oop-principles/composition.md)
+
+## SOLID
+1) [Single Responsibility Principle](/documentation/solid-principles/s.md)
+2) [Open Closed Principle](/documentation/solid-principles/o.md)
+3) Liskov substitution principle
+4) Interface Segregation Principle
+5) Dependency Inversion Principle
