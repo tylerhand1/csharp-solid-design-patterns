@@ -8,7 +8,8 @@ namespace ConsoleApp.src.SOLID.S
 
             // Send email
             EmailSender emailSender = new();
-            emailSender.SendEmail(user.Email, "Welcome to our platform");
+            if (user.Email != null)
+                emailSender.SendEmail(user.Email, "Welcome to our platform");
         }
     }
 }
