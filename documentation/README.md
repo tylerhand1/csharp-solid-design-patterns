@@ -54,4 +54,4 @@ These design patterns can be grouped into three categories:
 2) [Open Closed Principle](/documentation/solid-principles/o.md)
 3) [Liskov Substitution principle](/documentation/solid-principles/l.md)
 4) [Interface Segregation Principle](/documentation/solid-principles/i.md)
-5) Dependency Inversion Principle
+5) [Dependency Inversion Principle](/documentation/solid-principles/d.md)

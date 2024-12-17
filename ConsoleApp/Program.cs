@@ -1,6 +1,5 @@
-﻿// ISP
+﻿// DIP
 
-using ConsoleApp.src.SOLID.I;
+using ConsoleApp.src.SOLID.D;
 
-var circle = new Circle { Radius = 10 };
-Console.WriteLine(circle.Area());
+var car = new Car(new Engine());
